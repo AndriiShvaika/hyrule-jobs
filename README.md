@@ -1,4 +1,6 @@
-# hyrule-jobs
+![Image alt](https://github.com/AndriiShvaika/hyrule-jobs/blob/main/src/assets/main-image.png)
+
+# Hyrule jobs
 
 ## Project setup
 ```
